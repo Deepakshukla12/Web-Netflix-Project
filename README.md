@@ -1,2 +1,2 @@
-# Web-Project-Internship
-I developed these web development projects for my internship
+# Web-Development-Project
+I developed these web development projects to enhance my practical knowledge. 
